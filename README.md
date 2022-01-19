@@ -1,2 +1,2 @@
-# utopia-2.0
+# utopia-2
 UTOPIA V 2.0
