@@ -15,7 +15,7 @@ $ pip install requests
 $ pip install mechanize
 $ pip install bs4
 $ pip install futures
-$ git clone https://github.com/Dimas-XV/utopia2
+$ git clone https://github.com/Dimas-XV/utopiav2
 ```
 ### ⇨  Menjalankan Script
 ```
