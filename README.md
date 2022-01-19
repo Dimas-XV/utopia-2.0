@@ -19,7 +19,7 @@ $ git clone https://github.com/Dimas-XV/utopiav2
 ```
 ### ⇨  Menjalankan Script
 ```
-$ cd utopia2
+$ cd utopiav2
 $ python runxd.py
 ```
 ### HAPPY CRACKING:D
