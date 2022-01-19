@@ -9,14 +9,6 @@ UTOPIA V 2.0
 ```
 ## ⇨  Install Script Di Termux
 ```
-$ termux-setup-storage  
-   • Enter  
-   • Ketik y Atau Pilih Izinkan  
-$ termux-change-repo
-   • Pilih Game Repository
-      - Klik OK
-   • Pilih Mirror By Grimler
-      - Klik OK
 $ pkg install python
 $ pkg install git
 $ pip install requests
